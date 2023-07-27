@@ -1,1 +1,1 @@
-# Comando DeRe peticao
+# Comando De Repetição.
